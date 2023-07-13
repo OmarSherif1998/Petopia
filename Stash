@@ -1,0 +1,15 @@
+<div
+  className="  grid grid-cols-4 grid-rows-6 h-[500px] justify-center items-center gap-5 text-center   "
+>
+  <div
+    className=" flex flex-col border bg-slate-600 p-8 text-left gap-y-5"
+  ></div>
+
+  <div className="border bg-slate-600"></div>
+
+  <div className="border bg-slate-600"></div>
+
+  <div className="border bg-slate-600"></div>
+
+  <div className="border bg-slate-600 col-span-6 row-span-2 text-center "></div>
+</div>
